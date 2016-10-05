@@ -1,2 +1,4 @@
 # hello-world
-A repository
+
+Sometimes you gotta give up on people.
+Not because you don't care...
