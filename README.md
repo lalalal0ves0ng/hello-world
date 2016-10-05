@@ -1,2 +1,3 @@
 # hello-world
-A repository
+
+Sometimes you gotta give up on people.
